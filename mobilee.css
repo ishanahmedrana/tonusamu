@@ -1,0 +1,56 @@
+@media(max-width:600px)
+{
+    .col-s-1 { width: 8.33%; float: left; }
+.col-s-2 { width: 16.66%; float: left; }
+.col-s-3 { width: 25%; float: left; }
+.col-s-4 { width: 33.33%; float: left; }
+.col-s-5 { width: 41.66%; float: left; }
+.col-s-6 { width: 50%; float: left; }
+.col-s-7 { width: 58.33%; float: left; }
+.col-s-8 { width: 66.66%; float: left; }
+.col-s-9 { width: 75%; float: left; }
+.col-s-10 { width: 83.33%; float: left; }
+.col-s-11 { width: 91.66%; float: left; }
+.col-s-12 { width: 100%; float: left; }
+
+header{
+
+}
+#first { background: url("img/Vibo---PSD-App-Template-1.gif")no-repeat center;
+background-size: cover;}
+
+.header-home-part{
+
+
+}
+.logo{
+
+
+
+margin: 15px -151px;
+
+
+}
+.logo-link{
+
+margin-bottom: 0px;
+
+margin: 0px 145px;
+
+position: relative;
+
+top: -66px;
+}
+.logo-link ul{
+
+}
+.logo-link li{
+    
+width: 99px;
+    
+float: left;
+}
+.logo-link a{
+    
+}
+}
